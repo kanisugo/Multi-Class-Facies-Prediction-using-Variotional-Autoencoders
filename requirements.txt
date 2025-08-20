@@ -1,0 +1,7 @@
+# requirements.txt
+lasio
+numpy
+pandas
+matplotlib
+seaborn
+scikit-
